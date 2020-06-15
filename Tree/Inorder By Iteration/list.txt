@@ -1,0 +1,10 @@
+a 10 is
+c 20 cs
+d 10 is
+f 40 ks
+a 20 is
+e 5 is
+a 30 ks
+d 3 ms
+f 40 is
+e 41 ks
